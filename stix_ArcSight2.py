@@ -1,4 +1,8 @@
 #! python2
+# Author: John Kennedy
+# Email: kissotdragon@gmail.com
+# Date: 07/08/2018
+
 import requests
 import untangle
 import xmltodict
