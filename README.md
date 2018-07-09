@@ -20,7 +20,7 @@ This is a script that connects to a TAXII servers discovery service, grabs the S
 # Example Usage
 ## Import from TAXII Server
 
-python Stix_ArcSight2.py
+    python Stix_ArcSight2.py
 
 Copyright 2018 Intermountain Health Services
 
