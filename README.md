@@ -7,11 +7,11 @@ This script was written to run in Python 2.7 and higher -- updated to use Beauti
 This script requires some python dependencies.  You can install these using pip.
 
 Needed modifications:
-    SET SYSLOG SERVER IP/PORT
-    SET PROXY
-    SET TIME DELTA
-    SET COLLECTION NAME
-    SET URL/USERNAME/PASSWORD
+SET SYSLOG SERVER IP/PORT,
+SET PROXY,
+SET TIME DELTA,
+SET COLLECTION NAME,
+SET URL/USERNAME/PASSWORD
 
 # Description
 
@@ -20,7 +20,7 @@ This is a script that connects to a TAXII servers discovery service, grabs the S
 # Example Usage
 ## Import from TAXII Server
 
-    python Stix_ArcSight2.py
+    python stix_ArcSight2.py
 
 Copyright 2018 Intermountain Health Services
 
